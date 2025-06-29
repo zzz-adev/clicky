@@ -1,75 +1,38 @@
-# Nuxt UI v3 Starter
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui3.nuxt.dev) to learn more.
+# 🥁 Clicky
 
-## Setup
+**Clicky** is a web-based custom click track generator for musicians. It lets you configure BPM, time signature, sounds, and number of beats, then generates a downloadable click track — perfect for practice, recording, or performance.
 
-Make sure to install the dependencies:
+👉 Try it live: [clicky.rocks](https://clicky.rocks)
 
-```bash
-# npm
-npm install
+---
 
-# pnpm
-pnpm install
+## 🎨 Features
 
-# yarn
-yarn install
+✅ Adjustable **BPM** with intuitive controls  
+✅ Selectable **time signatures** (e.g., 4/4)  
+✅ Choose **accent** and **general** sounds (e.g., high hat open/closed)  
+✅ Configurable number of **beats**, with estimated track length  
+✅ One-click **download** of your custom click track  
+✅ Modern, responsive UI with dark mode support
 
-# bun
-bun install
-```
+---
 
-## Development Server
+## 🛠️ Tech Stack
 
-Start the development server on `http://localhost:3000`:
+- **Framework**: [Nuxt](https://nuxt.com/) (Vue 3)
+- **UI Library**: [Nuxt UI](https://ui.nuxt.com/)
+- **Audio**: Web Audio API for click sound generation
+- **Styling**: Tailwind CSS (via Nuxt module)
+- **Deployment**: [Nuxthub](https://nuxthub.com/)
 
-```bash
-# npm
-npm run dev
+---
 
-# pnpm
-pnpm run dev
+Contact
 
-# yarn
-yarn dev
+Made with ❤️ by [zzz-adev](https://github.com/zzz-adev)  
+Feedback and feature suggestions welcome!
 
-# bun
-bun run dev
-```
+---
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Enjoy making perfectly timed click tracks with **Clicky**! 🥁
